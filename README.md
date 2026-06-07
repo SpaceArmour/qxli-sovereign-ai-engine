@@ -13,8 +13,8 @@ The platform is intended for organizations seeking operational independence, dat
 - [Architecture Overview](docs/architecture/architecture-overview.md)
 - [Component Reference](docs/components/component-reference.md)
 - [Governance Overview](docs/governance/governance-overview.md)
-- [Setup Guide](docs/setup/setup-guide.md)
 - [Third-Party Components](docs/references/third-party-components.md)
+- [Setup Guide](docs/setup/setup-guide.md)
 
 ---
 
