@@ -8,6 +8,16 @@ The platform is intended for organizations seeking operational independence, dat
 
 ---
 
+## Documentation
+
+- [Architecture Overview](docs/architecture/architecture-overview.md)
+- [Component Reference](docs/components/component-reference.md)
+- [Governance Overview](docs/governance/governance-overview.md)
+- [Setup Guide](docs/setup/setup-guide.md)
+- [Third-Party Components](docs/references/third-party-components.md)
+
+---
+
 ## Key Capabilities
 
 QXLI provides capabilities that support modern sovereign AI environments, including:
@@ -55,7 +65,7 @@ Additional information regarding component roles and relationships can be found 
 
 ---
 
-## Documentation
+## Documentation Overview
 
 The repository documentation is organized into the following sections:
 
