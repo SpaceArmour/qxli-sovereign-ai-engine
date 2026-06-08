@@ -51,7 +51,6 @@ Representative technologies within the QXLI ecosystem may include:
 * Open WebUI
 * vLLM
 * LiteLLM
-* LangGraph
 * LangChain
 * n8n
 * PostgreSQL
