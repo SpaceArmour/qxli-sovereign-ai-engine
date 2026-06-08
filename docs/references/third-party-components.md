@@ -35,7 +35,6 @@ The QXLI Sovereign AI Engine may incorporate technologies such as:
 | Open WebUI           | User Interface               |
 | vLLM                 | Model Inference Runtime      |
 | LiteLLM              | AI Gateway & Routing         |
-| LangGraph            | Agent Orchestration          |
 | LangChain            | AI Application Framework     |
 | n8n                  | Workflow Automation          |
 | PostgreSQL           | Structured Data Storage      |
@@ -60,7 +59,6 @@ Examples include:
 | Open WebUI           | Open WebUI Project                  |
 | vLLM                 | vLLM Project                        |
 | LiteLLM              | LiteLLM Project                     |
-| LangGraph            | LangGraph Project                   |
 | LangChain            | LangChain Project                   |
 | n8n                  | n8n GmbH                            |
 | PostgreSQL           | PostgreSQL Global Development Group |
