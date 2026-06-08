@@ -79,7 +79,7 @@ The following components form the foundation of the QXLI Sovereign AI Engine.
 | User Experience       | Open WebUI           |
 | AI Runtime            | vLLM                 |
 | AI Gateway (Optional) | LiteLLM              |
-| Agents                | LangGraph, LangChain |
+| Agents                | LangChain            |
 | Workflow Automation   | n8n                  |
 | Data & RAG            | PostgreSQL, pgvector |
 | Observability         | Langfuse             |
