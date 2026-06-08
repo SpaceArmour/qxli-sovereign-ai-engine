@@ -60,20 +60,6 @@ It offers a unified interface for managing multiple model endpoints.
 
 ## Agent & Orchestration Layer
 
-### LangGraph
-
-LangGraph provides the framework for building and orchestrating agentic workflows.
-
-It enables AI agents to execute structured tasks, maintain state, and coordinate complex processes.
-
-**Role within QXLI:**
-
-* Agent orchestration
-* Stateful workflows
-* Autonomous process coordination
-
----
-
 ### LangChain
 
 LangChain provides a framework for developing AI-powered applications and connecting language models to external tools and services.
@@ -204,7 +190,7 @@ At a high level:
 1. Users interact through Open WebUI.
 2. Requests may be routed through LiteLLM when gateway capabilities are required.
 3. vLLM executes private language models.
-4. LangGraph and LangChain coordinate AI workflows and agent behavior.
+4. LangChain supports AI workflows and agent behavior.
 5. PostgreSQL and pgvector provide structured and semantic knowledge access.
 6. n8n connects AI outputs to operational business processes.
 7. Langfuse provides observability and governance visibility.
