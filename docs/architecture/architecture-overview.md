@@ -1,6 +1,6 @@
 # QXLI Architecture Overview
 
-![QXLI AI Engine Architecture](images/qxli-ai-engine-architecture.jpg)
+![QXLI AI Engine Architecture](../images/qxli-ai-engine-architecture.jpg)
 
 ## Overview
 
@@ -95,7 +95,7 @@ Each component contributes a specific capability while remaining part of a unifi
 
 ## MCP-Powered Agentic RAG Blueprint
 
-![QXLI MCP-Powered Agentic RAG Blueprint](images/qxli-mcp-rag-blueprint.jpg)
+![QXLI MCP-Powered Agentic RAG Blueprint](../images/qxli-mcp-rag-blueprint.jpg)
 
 ---
 
