@@ -1,5 +1,7 @@
 # QXLI Sovereign AI Engine
 
+![QXLI Architecture – Open, Modular, Best-of-Breed AI](docs/images/qxli-architecture-overview.jpg)
+
 **QXLI (Quick eXtensible Layered Intelligence) Sovereign AI Engine** is a modular, governance-oriented AI platform designed to enable organizations to deploy, operate, and govern private artificial intelligence environments under their own control.
 
 Built upon a foundation of established open-source technologies, QXLI combines AI runtime services, agent orchestration, workflow automation, retrieval-augmented generation (RAG), observability, identity management, and governance capabilities into a unified sovereign AI architecture.
