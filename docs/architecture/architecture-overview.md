@@ -1,5 +1,7 @@
 # QXLI Architecture Overview
 
+![QXLI AI Engine Architecture](images/qxli-ai-engine-architecture.jpg)
+
 ## Overview
 
 QXLI Sovereign AI Engine is a modular, enterprise-grade sovereign AI platform designed for organizations that require full control over their artificial intelligence infrastructure, data, models, and operations.
@@ -88,6 +90,12 @@ The following components form the foundation of the QXLI Sovereign AI Engine.
 | AI Acceleration       | NVIDIA AI Blueprints |
 
 Each component contributes a specific capability while remaining part of a unified sovereign AI architecture.
+
+---
+
+## MCP-Powered Agentic RAG Blueprint
+
+![QXLI MCP-Powered Agentic RAG Blueprint](images/qxli-mcp-rag-blueprint.jpg)
 
 ---
 
